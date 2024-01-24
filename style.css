@@ -17,12 +17,7 @@ footer {
   background: rgb(44,52,52);
 }
 
-div{
-  padding: 5px;
-  margin: 5px;
-}
-
-.card{
-  height: 600px;
-  width: 300px;
+#card {
+    width: 18rem; 
+    height: 100%;
 }
