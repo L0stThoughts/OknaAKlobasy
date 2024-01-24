@@ -26,3 +26,10 @@ footer {
 div{
   margin: 5px;
 }
+
+h1{
+  text-align: center;
+  margin: 10px;
+  text-decoration:solid;
+
+}
