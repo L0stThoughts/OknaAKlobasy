@@ -16,3 +16,8 @@ footer {
   color: white;
   background: rgb(44,52,52);
 }
+
+.card{
+  height: 1fr;
+  width: 18rem
+}
